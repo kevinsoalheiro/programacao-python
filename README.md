@@ -50,6 +50,9 @@ programacao-python/
 │   ├── dicionarios.py
 │   └── conjuntos.py
 │
+├── exercicios/
+│   ├── 006.py - Estruturas condicionais e de repetição, tratamento de exceções, controle de fluxo, operações matemáticas, métodos de verificação e formatação de resultados em Python.
+│
 ├── orientacao-a-objetos/
 │
 ├── numpy/

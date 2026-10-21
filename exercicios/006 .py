@@ -1,3 +1,4 @@
+#Calcular o dobro, triplo e raiz quadrada do número inserido
 import math
 
 while True:

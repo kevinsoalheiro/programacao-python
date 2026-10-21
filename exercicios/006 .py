@@ -17,9 +17,9 @@ while True:
 
 if n1.is_integer():
     n1 = int(n1)
-else:
-    dobro = round(2*n1,len(str((n1))))
-    triplo = round(3*n1, len(str((n1))))
+
+dobro = round(2*n1,len(str((n1))))
+triplo = round(3*n1, len(str((n1))))
 
 
 raiz = math.sqrt(n1)
